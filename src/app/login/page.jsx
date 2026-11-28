@@ -60,10 +60,10 @@ export default function LoginPage() {
 
           <div className="relative max-w-sm">
             <p className="mb-5 text-sm font-medium uppercase tracking-[0.2em] text-[#c4ddbd]">
-              Welcome back
+              This has been changed
             </p>
             <h1 className="text-4xl font-semibold leading-tight tracking-tight lg:text-5xl">
-              Good things start with a fresh perspective.
+              See the difference
             </h1>
             <p className="mt-6 max-w-xs text-base leading-7 text-white/70">
               Sign in to pick up right where you left off.
